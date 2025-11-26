@@ -33,5 +33,3 @@ For a dash of code and a slice of life, let's connect across platforms.
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sojanyasharma030203)
 [![GMail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sojanya7@gmail.com)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojanya007&show_icons=true&locale=en" alt="sojanya007" /></p>
